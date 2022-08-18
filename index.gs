@@ -2,9 +2,9 @@
 var BOT_TOKEN = "5787420614:AAG1YAK0MXChcMGMu3E_1GlOD07FjbKOV14" //BOT TOKEN ANDA
 var SS_URL = "https://docs.google.com/spreadsheets/d/1kTl7L0MGsydhJ4sEndzoo_4ZJDGAbWqNBd4g11QhZqw/edit?usp=drivesdk" //URL SPREADSHEET
 var SHEET_NAME = "Payment" //NAMA SHEET
-var USERS = [
-	173739838,
-	183837728
+var USERS = [639346786
+	
+	
 ] //CHAT ID, bisa lebih dari 1
 
 
